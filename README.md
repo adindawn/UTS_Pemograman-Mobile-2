@@ -23,4 +23,5 @@ Kelas: I241D
 <img width="1842" height="932" alt="Mockup" src="https://github.com/user-attachments/assets/99119c93-e0f0-42f9-83bd-d9a249eb0de7" />
 
 # UI 
-  <img width="669" height="336" alt="Screenshot 2026-05-02 213021" src="https://github.com/user-attachments/assets/cc82f0aa-402f-4a1a-9abc-487b8d3df9fb" />
+  <img width="2621" height="1061" alt="Untitled (1)" src="https://github.com/user-attachments/assets/9e5c1132-c9c4-4851-9e92-4d9f35d5976c" />
+
