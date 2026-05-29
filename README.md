@@ -13,14 +13,14 @@ Kelas: I241D
   Aplikasi MemoAese dilengkapi dengan fitur daftar tugas (to-do-list), pencarian catatan. memoaese membantu pengguna mencatat ide, serta membantu pengguna mencatat tugas dan mengingat deadline dengan lebih terorganisir. 
   
 # CLICKUP 
-   <img width="1118" height="337" alt="Screenshot 2026-05-08 163227" src="https://github.com/user-attachments/assets/476ed542-98a9-4c58-a11f-7cd2c587ff62" />
+   <img width="1113" height="442" alt="Screenshot 2026-05-29 082521" src="https://github.com/user-attachments/assets/8496d593-0a86-44a1-a990-13b0cb4168b6" />
 
 # STORYBOARD
-  <img width="2000" height="1600" alt="mobile 1" src="https://github.com/user-attachments/assets/c3c4ad72-95a6-442b-a722-5700767832e2" />
+  <img width="2000" height="1600" alt="storyboard memoaese" src="https://github.com/user-attachments/assets/8f3fe557-8680-4165-be53-8bb1452aad95" />
 
 # Mockup 
-<img width="1842" height="932" alt="Mockup" src="https://github.com/user-attachments/assets/99119c93-e0f0-42f9-83bd-d9a249eb0de7" />
+  <img width="1842" height="932" alt="Mockup (1)" src="https://github.com/user-attachments/assets/39c64c89-88e7-4c33-b4ea-eefa5906e018" />
 
 # UI 
-  <img width="2621" height="1061" alt="Untitled (1)" src="https://github.com/user-attachments/assets/9e5c1132-c9c4-4851-9e92-4d9f35d5976c" />
+  <img width="2639" height="1061" alt="Untitled (2)" src="https://github.com/user-attachments/assets/227d7e4b-f9f7-4519-9bc8-1c02a75ecd92" />
 
