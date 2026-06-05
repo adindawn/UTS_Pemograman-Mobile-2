@@ -13,7 +13,7 @@ Kelas: I241D
   Aplikasi MemoAese dilengkapi dengan fitur daftar tugas (to-do-list), pencarian catatan. memoaese membantu pengguna mencatat ide, serta membantu pengguna mencatat tugas dan mengingat deadline dengan lebih terorganisir. 
   
 # CLICKUP 
-   <img width="1113" height="442" alt="Screenshot 2026-05-29 082521" src="https://github.com/user-attachments/assets/8496d593-0a86-44a1-a990-13b0cb4168b6" />
+  <img width="1117" height="379" alt="Screenshot 2026-06-05 102607" src="https://github.com/user-attachments/assets/e190b596-8fbb-496e-9692-e9f95df172ae" />
 
 # STORYBOARD
   <img width="2000" height="1600" alt="storyboard memoaese" src="https://github.com/user-attachments/assets/8f3fe557-8680-4165-be53-8bb1452aad95" />
